@@ -1,13 +1,13 @@
 @font-face {
   font-family: "ProximaNova-Black";
-  src: local("ProximaNova-Black")
-      url("https://nomail.com.ua/files/eot/aa46d234cf405126cdd1c36600e4b978.eot?#iefix")
-      format("embedded-opentype"),
-    url("https://nomail.com.ua/files/woff/aa46d234cf405126cdd1c36600e4b978.woff")
-      format("woff"),
-    url("https://nomail.com.ua/files/woff2/aa46d234cf405126cdd1c36600e4b978.woff2")
-      format("woff2");
-}
+  src:  local("ProximaNova-Black"),     
+    url('https://nomail.com.ua/files/eot/f401366193520cdf512c7ade98260e27.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://nomail.com.ua/files/woff/f401366193520cdf512c7ade98260e27.woff')
+      format('woff'),
+    url('https://nomail.com.ua/files/woff2/f401366193520cdf512c7ade98260e27.woff2')
+      format('woff2');
+  }
 
 *,
 *:after,
